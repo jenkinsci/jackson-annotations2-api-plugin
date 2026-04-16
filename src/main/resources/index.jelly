@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin exposes the Jackson Annotation 2 APIs to other Jenkins plugins.
+</div>
